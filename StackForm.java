@@ -10,7 +10,7 @@ import java.util.Scanner;  // Import the Scanner class
 
 public class StackForm {
   /**
-   * This function allows the user to add an inputed number to a stack.
+   * This function allows the user to add an inputted number to a stack.
    */
   public static void main(String[] args) {
     try {
@@ -23,7 +23,7 @@ public class StackForm {
       // Declaring stack by using the JacobStack class
       JacobStack stack = new JacobStack();
 
-      // Placing the inputed integer on the stack
+      // Placing the inputted integer on the stack
       stack.push(numberChosen);
 
       // Verifying the integer you just placed in the stack
